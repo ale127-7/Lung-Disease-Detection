@@ -13,4 +13,4 @@ For my project I used image recognition so the AI can be able to determine the d
 3. Download your Data Set
 4. Change Directories by putting in ''
 
-[View a video explanation here](video link)
+(https://drive.google.com/file/d/17YnPRaac99AnwI0VM6trkTHsI9dNv6IQ/view?usp=sharing))
