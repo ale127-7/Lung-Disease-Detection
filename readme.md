@@ -1,16 +1,16 @@
-# Project Name
+# Lung Cancer Detection
 
- Add short description of project here > 
+Model made with a Jetson-Nano to be able to give percentages and to tell the types different lung cancers based on images.
 
-![add image descrition here](direct image link here)
 
 ## The Algorithm
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
-
+For my project I used image recognition so the AI can be able to determine the different types of lung cancers and gives percentages based off of the picture.
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
+1. Set up your Jetson-Nano
+2. Open Visual Studio Code
+3. Download your Data Set
+4. Change Directories by putting in ''
 
 [View a video explanation here](video link)
